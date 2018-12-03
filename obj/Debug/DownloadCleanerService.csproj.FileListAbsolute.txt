@@ -1,0 +1,12 @@
+C:\Users\1513 X-MXTI\Source\Repos\DownloadCleanerService\DownloadCleanerService\bin\Debug\DownloadCleanerService.exe.config
+C:\Users\1513 X-MXTI\Source\Repos\DownloadCleanerService\DownloadCleanerService\bin\Debug\DownloadCleanerService.exe
+C:\Users\1513 X-MXTI\Source\Repos\DownloadCleanerService\DownloadCleanerService\bin\Debug\DownloadCleanerService.pdb
+C:\Users\1513 X-MXTI\Source\Repos\DownloadCleanerService\DownloadCleanerService\bin\Debug\Topshelf.dll
+C:\Users\1513 X-MXTI\Source\Repos\DownloadCleanerService\DownloadCleanerService\bin\Debug\Topshelf.xml
+C:\Users\1513 X-MXTI\Source\Repos\DownloadCleanerService\DownloadCleanerService\obj\Debug\DownloadCleanerService.csprojAssemblyReference.cache
+C:\Users\1513 X-MXTI\Source\Repos\DownloadCleanerService\DownloadCleanerService\obj\Debug\DownloadCleanerService.csproj.CoreCompileInputs.cache
+C:\Users\1513 X-MXTI\Source\Repos\DownloadCleanerService\DownloadCleanerService\obj\Debug\DownloadCleanerService.csproj.CopyComplete
+C:\Users\1513 X-MXTI\Source\Repos\DownloadCleanerService\DownloadCleanerService\obj\Debug\DownloadCleanerService.exe
+C:\Users\1513 X-MXTI\Source\Repos\DownloadCleanerService\DownloadCleanerService\obj\Debug\DownloadCleanerService.pdb
+C:\Users\1513 X-MXTI\Source\Repos\DownloadCleanerService\DownloadCleanerService\bin\Debug\Syroot.KnownFolders.dll
+C:\Users\1513 X-MXTI\Source\Repos\DownloadCleanerService\DownloadCleanerService\bin\Debug\Syroot.KnownFolders.xml

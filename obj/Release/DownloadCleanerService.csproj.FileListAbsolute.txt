@@ -1,0 +1,10 @@
+C:\Users\1513 X-MXTI\Source\Repos\DownloadCleanerService\DownloadCleanerService\bin\Release\DownloadCleanerService.exe.config
+C:\Users\1513 X-MXTI\Source\Repos\DownloadCleanerService\DownloadCleanerService\bin\Release\DownloadCleanerService.exe
+C:\Users\1513 X-MXTI\Source\Repos\DownloadCleanerService\DownloadCleanerService\bin\Release\DownloadCleanerService.pdb
+C:\Users\1513 X-MXTI\Source\Repos\DownloadCleanerService\DownloadCleanerService\bin\Release\Topshelf.dll
+C:\Users\1513 X-MXTI\Source\Repos\DownloadCleanerService\DownloadCleanerService\bin\Release\Topshelf.xml
+C:\Users\1513 X-MXTI\Source\Repos\DownloadCleanerService\DownloadCleanerService\obj\Release\DownloadCleanerService.csprojAssemblyReference.cache
+C:\Users\1513 X-MXTI\Source\Repos\DownloadCleanerService\DownloadCleanerService\obj\Release\DownloadCleanerService.csproj.CoreCompileInputs.cache
+C:\Users\1513 X-MXTI\Source\Repos\DownloadCleanerService\DownloadCleanerService\obj\Release\DownloadCleanerService.csproj.CopyComplete
+C:\Users\1513 X-MXTI\Source\Repos\DownloadCleanerService\DownloadCleanerService\obj\Release\DownloadCleanerService.exe
+C:\Users\1513 X-MXTI\Source\Repos\DownloadCleanerService\DownloadCleanerService\obj\Release\DownloadCleanerService.pdb
